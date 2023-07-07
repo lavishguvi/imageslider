@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>An interactive image slider for showcasing multiple images.</em>
+  <em>An interactive image slider for showcasing  images.</em>
 </p>
 
 ## Project Description
